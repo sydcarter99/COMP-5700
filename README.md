@@ -1,2 +1,2 @@
 # SoftwareProcessRubik
-Rubik cube starter code for Auburn University's Secure Software Process course
+Rubik cube solver created in Auburn University's Secure Software Process course fall 2022
